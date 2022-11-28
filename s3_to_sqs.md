@@ -1,4 +1,4 @@
-**Access Policy for S3 Bucket to SQS **
+**Access Policy for S3 Bucket to SQS**
 
 ```
 {
@@ -24,4 +24,5 @@
     }
   ]
 }
+
 ```

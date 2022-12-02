@@ -8,4 +8,5 @@
 |4.|**CW**|CloudWatch|Monitoring all the services.|
 |5.|**EC2**|Elastic Cloud Compute|https://www.geeksforgeeks.org/what-is-elastic-compute-cloud-ec2/|
 |6.||Lamda|Lambda runs your code on a high-availability compute infrastructure and performs all of the administration of the compute resources, including server and operating system maintenance, capacity provisioning and automatic scaling, and logging|
-|7.|VPC|Virtual Private Cloud|https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html|
+|7.|**VPC**|Virtual Private Cloud|https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html|
+|8.||Security Group|A security group acts as a virtual firewall for your EC2 instances to control incoming and outgoing traffic.|

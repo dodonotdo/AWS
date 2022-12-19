@@ -30,7 +30,7 @@ aws configure list
 
   ```
   ```
-**6. Add a new cluster on local**
+**6. Added a new cluster on local**
 
  ```sh
   # Execute the created cluster on our local
@@ -64,3 +64,8 @@ aws configure list
   # pod details
   kubectl get pods
   ```
+
+
+Note:
+-----
+Reference - https://www.youtube.com/watch?v=SsUnPWp5ilc

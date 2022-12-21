@@ -1,6 +1,6 @@
 ## AWS All Services
 
-|S.No.|Short Form|Abbrevation|Description|
+|S.No.|SHORT FORM|ABBREVATION|DESCRIPTION|
 |------|----------|-----------|-----------|
 |1.|**S3 Bucket**|Simple Storage Service|Store and retrieve any amount of data at any time, from anywhere.|
 |2.|**SNS**|Simple Notification Service|Returns a notification message.|
@@ -11,6 +11,5 @@
 |7.|**VPC**|Virtual Private Cloud|https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html|
 |8.||Security Group|A security group acts as a virtual firewall for your EC2 instances to control incoming and outgoing traffic.|
 |9.|**EKS**|Elastic Kubernetes Service|https://k21academy.com/docker-kubernetes/amazon-eks-kubernetes-on-aws/?utm_source=youtube&utm_medium=referral&utm_campaign=kubernetes17_july21_k21|
-|10.|**LB**|Load Balancer|The load balancer distributes incoming application traffic across multiple targets, such as EC2 instances, in multiple Availability Zones. This increases the availability of your application.|
-|11.||API Gateway|![image](https://user-images.githubusercontent.com/91359308/208975467-24d7eda2-3d96-4b71-9203-49099723928e.png)
-|
+|10.|**LB**|Load Balancer|The load balancer distributes incoming application traffic across multiple targets, such as EC2 instances, in multiple Availability Zones. This increases the availability of your application. ![image](https://user-images.githubusercontent.com/91359308/208976445-6c6e4fab-ddc3-45f6-8217-1387bf679d6e.png)|
+|11.||API Gateway|![image](https://user-images.githubusercontent.com/91359308/208975467-24d7eda2-3d96-4b71-9203-49099723928e.png)|

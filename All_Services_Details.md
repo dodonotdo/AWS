@@ -12,4 +12,5 @@
 |8.||Security Group|A security group acts as a virtual firewall for your EC2 instances to control incoming and outgoing traffic.|
 |9.|**EKS**|Elastic Kubernetes Service|https://k21academy.com/docker-kubernetes/amazon-eks-kubernetes-on-aws/?utm_source=youtube&utm_medium=referral&utm_campaign=kubernetes17_july21_k21|
 |10.|**LB**|Load Balancer|The load balancer distributes incoming application traffic across multiple targets, such as EC2 instances, in multiple Availability Zones. This increases the availability of your application.|
-|11.||API Gateway||
+|11.||API Gateway|![image](https://user-images.githubusercontent.com/91359308/208975467-24d7eda2-3d96-4b71-9203-49099723928e.png)
+|
